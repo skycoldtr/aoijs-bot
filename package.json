@@ -1,0 +1,16 @@
+{
+  "name": "freezcode",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Freez Code - skycold",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^6.10.3"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
